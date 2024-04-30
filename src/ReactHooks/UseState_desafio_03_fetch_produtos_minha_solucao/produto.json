@@ -1,0 +1,18 @@
+{
+  "id": "smartphone",
+  "fotos": [
+    {
+      "titulo": "smartphone-2",
+      "src": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/smartphone-1.jpg"
+    },
+    {
+      "titulo": "smartwatch",
+      "src": "https://ranekapi.origamid.dev/wp-content/uploads/2019/03/smartwatch.jpg"
+    }
+  ],
+  "nome": "Smartphone",
+  "preco": "2333",
+  "descricao": "Novo smartphone.",
+  "vendido": "false",
+  "usuario_id": "joao@gmail.com"
+}
